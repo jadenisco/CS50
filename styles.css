@@ -1,0 +1,118 @@
+a {
+    text-decoration: none;
+}
+
+.site-body {
+    background-color: ghostwhite;
+}
+
+.site-wrapper {
+    background-color: inherit;
+}
+
+.site-header {
+    background-color: inherit;
+}
+
+.site-main {
+    background-color: inherit;
+}
+
+.site-nav {
+    display: block;
+    font-size: 1.17em;
+    list-style: none;
+}
+.nav-content {
+    display: flex;
+    flex-direction: row-reverse;
+    padding-top: 10px;
+    margin-right: 1em;
+    margin-left: 1em;
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+.nav-home {
+    color:black;
+    padding-left: 1em;
+    font-weight: bold;
+    text-decoration: none;
+    list-style: none;
+}
+
+.nav-item {
+    padding-left: 1em;
+    list-style: none;
+    text-decoration: none;
+}
+
+.site-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 20px;
+}
+
+.as-input-container {
+    width: 100%;
+    clear: both;
+}
+
+.as-lbl3 {
+    clear: both;
+}
+
+.as-lbl2 {
+    float: left;
+    display: block;
+    min-width: 220px;
+    width: 16%;
+    height: 42px;
+}
+
+.as-lbl1 {
+    height: 30px;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.as-lbl {
+    margin: 0px;
+}
+
+.as-submit {
+    display: flex;
+    flex-direction: row-reverse;
+    margin-top: 10px;
+}
+
+.sc-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.sc-inp-box {
+    border: 1px solid gray;
+    width: 50vw;
+    box-shadow: none;
+    border-radius: 24px;
+}
+
+.sc-form-search {
+    margin-top: 10px;
+}
+
+.st-submit {
+    border: 1px solid gray;
+    border-radius: 24px;
+    box-shadow: none;
+
+}
+
+.search-title {
+    color: darkblue;
+    font-family: cursive;
+    margin-bottom: 20px;
+}
